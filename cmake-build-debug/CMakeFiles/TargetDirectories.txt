@@ -1,0 +1,3 @@
+C:/Users/Kot/CLionProjects/Algorithm/RecoursiveF/MergeTwoLiists/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Kot/CLionProjects/Algorithm/RecoursiveF/MergeTwoLiists/cmake-build-debug/CMakeFiles/MergeTwoLiists.dir
+C:/Users/Kot/CLionProjects/Algorithm/RecoursiveF/MergeTwoLiists/cmake-build-debug/CMakeFiles/edit_cache.dir
